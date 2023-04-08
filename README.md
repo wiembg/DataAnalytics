@@ -1,6 +1,9 @@
 # DataAnalytics
 this is little examples of data analysis :
-*** Tinder Reviews Sentiment Analysis using Python *** : Tinder is one of the most popular dating applications ,to check whether Tinder helps people find partners, we can analyze the sentiments of people about Tinder. There are a lot of reviews on the Google Play Store about Tinder:
+
+
+***Tinder Reviews Sentiment Analysis using Python*** : 
+Tinder is one of the most popular dating applications ,to check whether Tinder helps people find partners, we can analyze the sentiments of people about Tinder. There are a lot of reviews on the Google Play Store about Tinder:
 1. Cleaning data ( remove the null values)
 2. Cleaning text removing punctuation ,stopwords.. + stemming
 3. Calculating the sentiment scores of the reviews
