@@ -1,5 +1,5 @@
 # DataAnalytics
-this is little examples of data analysis :
+this is little examples of data analysis ,check the branchs to take a look on the differents topics used with python:
 
 
 ***Tinder Reviews Sentiment Analysis using Python*** : 
