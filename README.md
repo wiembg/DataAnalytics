@@ -14,7 +14,7 @@ this is little examples of data analysis :
 
 
 ***IPhoneSales***
-1.Cleaning
+1. Cleaning
 2. Creating a new dataframe by storing all the data about the top 10 highest-rated iPhones 
 3. Exploring in a barchart number of Ratings of Highest Rated iPhones+the number of reviews of the highest-rated iPhones
 4. Exploring with scatter plot Relationship between Sale Price and Number of Ratings/Discount Percentage and Number of Ratings
